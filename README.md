@@ -44,7 +44,7 @@
 
 Interested in collaborating on cybersecurity or full stack projects? I'm open to ideas!
 
-📫 **fernandezlo92@gmail.com**  
+📫 **fernanfernandezag@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/fernandodezlo/)
 
 ---
