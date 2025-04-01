@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hello! I'm Fernando Fernández Aguiló 👋</h1>
   <p><strong>Web Developer & Cybersecurity Enthusiast</strong></p>
-  <img src="https://i.imgur.com/weNbhGZ.png" width="150" alt="personal logo">
 </div>
 
 ---
