@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! I'm Fernando Fernández Aguiló 👋</h1>
-  <p><strong>Web Developer & Cybersecurity Enthusiast</strong></p>
+  <p><strong>Web Developer & Cybersecurity Specialist</strong></p>
 </div>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Description |
 |---|---|
@@ -42,9 +42,9 @@
 
 ### 🤝 Let's Connect
 
-Interested in collaborating on cybersecurity tools, forensic frameworks, or full stack projects? I'm open to ideas!
+Interested in collaborating on cybersecurity or full stack projects? I'm open to ideas!
 
 📫 **fernandezlo92@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando-fernandez-aguilo/)
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandodezlo/)
 
 ---
