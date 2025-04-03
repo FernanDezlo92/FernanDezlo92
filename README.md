@@ -26,7 +26,7 @@
 | Project | Description |
 |---|---|
 | 🧩 **Portable Forensics Framework** | A comprehensive tool for memory and system forensics on Windows, powered by Volatility 3 and additional modules for incident response. |
-| 🛡️ **TeamUp** | App for managing local sports clubs: includes team building, rankings, penalties, and player matchmaking. |
+| 🛡️ **TeamUp** | App for managing local sports clubs: includes team building, rankings, penalties, and player matchmaking. https://team.up.railway.app/|
 | 🏠 **FindMate** | A roommate matchmaking project with JWT-based authentication, real-time notifications, and profile-based matching. |
 
 ---
