@@ -1,10 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I'm Fernando Fernández Aguiló</h1>
   <p><strong>Web Developer & Cybersecurity Specialist</strong></p> 
+  <p>Focused on Digital Forensics, Reverse Engineering, and secure full-stack development.</p>
 </div>
-<p>Focused on Digital Forensics, Reverse Engineering, and secure full-stack development.</p>
+
+---
+
 🎓 Master’s Degree in Cybersecurity (UGR)  
-🛡️ Currently working in **Cybersecurity SOC operations**
+🛡️ Currently working in Cybersecurity SOC
 
 ---
 
