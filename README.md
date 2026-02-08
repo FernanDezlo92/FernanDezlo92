@@ -1,50 +1,63 @@
-<div align="center">
-  <h1>Hello! I'm Fernando Fernández Aguiló 👋</h1>
-  <p><strong>Web Developer & Cybersecurity Specialist</strong></p>
-</div>
+## 👋 Hi, I'm Fernando Fernández Aguiló
+
+**Web Developer & Cybersecurity Specialist**  
+Focused on **Digital Forensics**, **Reverse Engineering**, and **secure full-stack development**.
+
+🎓 Master’s Degree in Cybersecurity (UGR)  
+🛡️ Currently working in **Cybersecurity SOC operations**
 
 ---
 
-### 🧠 About Me
+## 🔐 Cybersecurity Focus
 
-- 🎓 Master's Degree in Cybersecurity (UGR)  
-- 🛠️ Full Stack Web Developer experienced in **React**, **Node.js**, **PostgreSQL**, **Docker**, and more  
-- 🔐 Forensics tools researcher – currently working on a **portable digital forensics toolkit for Windows**
-- 🧰 Hands-on experience with **Volatility**, **memory analysis**, **reverse engineering**, **OWASP ZAP**, **SQLi**, **fuzzing**, etc.  
-- 🌐 Passionate about building practical tools that solve real-world problems in cybersecurity and development
+- 🛡️ **SOC Operations**  
+  Security monitoring, alert triage, incident analysis and escalation
 
----
+- 🧠 **Digital Forensics (Windows)**  
+  Memory analysis, artifact extraction and investigation workflows using **Volatility 3**
 
-### 🧰 Tech Stack
+- 🧪 **Malware Analysis & Reverse Engineering**  
+  Static analysis and basic dynamic analysis with **IDA / Ghidra**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,react,ts,nodejs,vite,tailwind,bash,github" alt="stack" />
-
----
-
-### 🚀 Projects
-
-| Project | Description |
-|---|---|
-| 🧩 **Portable Forensics Framework** | A comprehensive tool for memory and system forensics on Windows, powered by Volatility 3 and additional modules for incident response. |
-| 🛡️ **TeamUp** | App for managing local sports clubs: includes team building, rankings, penalties, and player matchmaking. https://team.up.railway.app/|
-| 🏠 **FindMate** | A roommate matchmaking project with JWT-based authentication, real-time notifications, and profile-based matching. |
+- 🌐 **Web Security**  
+  OWASP Top 10, SQL Injection, fuzzing, authentication & access control testing
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandezlo92&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandezlo92&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" height="180em"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,react,ts,nodejs,vite,tailwind,bash,github,python,powershell" alt="stack" />
 
 ---
 
-### 🤝 Let's Connect
+## 🧩 Featured Project — Portable Forensics Toolkit (Windows)
 
-Interested in collaborating on cybersecurity or full stack projects? I'm open to ideas!
+A **portable digital forensics framework** designed for Windows systems, focused on fast triage and structured analysis:
 
-📫 **fernanfernandezag@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernandodezlo/)
+- 📥 Disk & memory acquisition
+- ⚡ Fast triage & automated scans
+- 🧠 Memory analysis powered by **Volatility 3**
+- 🐛 Detection of suspicious processes and system artifacts
+- 📄 Structured forensic reports in **HTML / PDF**
+
+🎯 Developed as part of my **Master’s Thesis (UGR)** with a strong practical and professional focus on incident response and investigations.
 
 ---
+
+## 🚀 Other Projects
+
+- 🛡️ **TeamUp**  
+  Sports club management platform with secure authentication, rankings, penalties & matchmaking  
+  🔗 https://team.up.railway.app/
+
+- 🏠 **FindMate**  
+  Roommate matchmaking platform featuring JWT-based authentication, user profiles & notifications
+
+---
+
+## 🤝 Let’s Connect
+
+📫 **Email:** fernanfernandezag@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/fernandodezlo/
+
+Open to collaboration in **cybersecurity**, **digital forensics**, and **secure web development**.
