@@ -56,7 +56,7 @@ A **portable digital forensics framework** designed for Windows systems, focused
 - 🏠 **FindMate**  
   Roommate matchmaking platform featuring JWT-based authentication, user profiles & notifications
 
-- 🎮 Collaboration — UGR Lan Party (UGR)
+- 🎮 **Collaboration — UGR Lan Party (UGR)**  
   Web Development Contributor, Frontend improvements and maintenance, Bug fixing & feature support, Collaboration with event organization team.
   🔗 https://ulp.ugr.es/
 ---
